@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Fate preventivi gratuiti?",
+      "risposta": "Sì, il preventivo è sempre gratuito e senza impegno. Puoi portare il veicolo o descrivere il problema per telefono/WhatsApp: ti risponderemo entro 2 ore in orario lavorativo."
+    },
+    {
+      "domanda": "Quanto dura la garanzia sui ricambi montati?",
+      "risposta": "Garantiamo 12 mesi su tutti i ricambi originali o equivalenti omologati montati da noi. In caso di difetto del ricambio, interveniamo gratuitamente entro il periodo di garanzia."
+    },
+    {
+      "domanda": "Avete l'auto sostitutiva?",
+      "risposta": "Sì, abbiamo 2 auto sostitutive disponibili per riparazioni che richiedono più di mezza giornata. È necessaria prenotazione anticipata e patente valida. Il servizio è gratuito per lavori superiori a €200."
+    },
+    {
+      "domanda": "Gestite il cambio gomme stagionale?",
+      "risposta": "Sì, offriamo il servizio di cambio gomme con custodia stagionale. Montiamo le gomme di stagione e depositiamo quelle smontate nel nostro magazzino climatizzato. Servizio prenotabile online o per telefono."
+    },
+    {
+      "domanda": "Lavorate anche su auto elettriche o ibride?",
+      "risposta": "Eseguiamo la manutenzione ordinaria (tagliando, freni, gomme, aria condizionata, diagnosi) su vetture ibride Toyota, Hyundai e Kia. Per interventi sulla batteria ad alta tensione o sull'unità motore elettrico ci avvaliamo di partner certificati HV."
+    },
+    {
+      "domanda": "Accettate mandato per pratiche assicurative in caso di sinistro?",
+      "risposta": "Sì, lavoriamo con tutte le compagnie assicurative. Sofia gestisce direttamente la pratica, il periziamento e la comunicazione con la tua compagnia. Nessun anticipo richiesto se la compagnia accetta il mandato."
+    },
+    {
+      "domanda": "Quali metodi di pagamento accettate?",
+      "risposta": "Accettiamo contanti, bancomat, carte di credito/debito (Visa, Mastercard), bonifico bancario e Satispay. Per lavori superiori a €500 è possibile concordare un pagamento dilazionato in 2 rate."
+    },
+    {
+      "domanda": "Come vengo aggiornato sullo stato della mia auto?",
+      "risposta": "Alla consegna ricevi un numero di pratica. Ti inviamo un SMS/WhatsApp quando il veicolo è pronto. Per lavori imprevisti o costi aggiuntivi ti contatteremo telefonicamente prima di procedere: nessuna sorpresa in fattura."
+    }
+  ]
+}

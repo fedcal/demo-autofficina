@@ -1,0 +1,174 @@
+{
+  "categorie": [
+    { "id": "meccanica", "nome": "Meccanica", "ordine": 1 },
+    { "id": "carrozzeria", "nome": "Carrozzeria & Verniciatura", "ordine": 2 },
+    { "id": "elettronica", "nome": "Elettronica & Diagnostica", "ordine": 3 }
+  ],
+  "servizi": [
+    {
+      "id": 1,
+      "categoria": "meccanica",
+      "nome": "Tagliando base",
+      "descrizione": "Cambio olio motore + filtro olio + ispezione 20 punti. Include olio minerale fino a 5L.",
+      "prezzoMin": 65,
+      "prezzoMax": 95,
+      "durataMedio": "1h",
+      "garanzia": true,
+      "popolare": true
+    },
+    {
+      "id": 2,
+      "categoria": "meccanica",
+      "nome": "Tagliando completo",
+      "descrizione": "Cambio olio + filtro olio + filtro aria + filtro abitacolo + candele + ispezione 30 punti.",
+      "prezzoMin": 130,
+      "prezzoMax": 220,
+      "durataMedio": "2h",
+      "garanzia": true,
+      "popolare": true
+    },
+    {
+      "id": 3,
+      "categoria": "meccanica",
+      "nome": "Cambio pastiglie freni anteriori",
+      "descrizione": "Smontaggio, controllo disco, pulizia pinze, montaggio pastiglie originali o equivalenti omologate.",
+      "prezzoMin": 80,
+      "prezzoMax": 140,
+      "durataMedio": "1.5h",
+      "garanzia": true,
+      "popolare": false
+    },
+    {
+      "id": 4,
+      "categoria": "meccanica",
+      "nome": "Cambio pastiglie + dischi freni anteriori",
+      "descrizione": "Sostituzione completa dischi e pastiglie freno anteriori. Ricambi certificati.",
+      "prezzoMin": 160,
+      "prezzoMax": 280,
+      "durataMedio": "2h",
+      "garanzia": true,
+      "popolare": false
+    },
+    {
+      "id": 5,
+      "categoria": "meccanica",
+      "nome": "Montaggio pneumatici (4 gomme)",
+      "descrizione": "Smontaggio, montaggio, equilibratura e convergenza su 4 pneumatici. Smaltimento incluso.",
+      "prezzoMin": 40,
+      "prezzoMax": 75,
+      "durataMedio": "1h",
+      "garanzia": false,
+      "popolare": true
+    },
+    {
+      "id": 6,
+      "categoria": "meccanica",
+      "nome": "Revisione ministeriale (RTT)",
+      "descrizione": "Assistenza e accompagnamento alla revisione ministeriale. Controllo pre-revisione incluso.",
+      "prezzoMin": 30,
+      "prezzoMax": 50,
+      "durataMedio": "2.5h",
+      "garanzia": false,
+      "popolare": true
+    },
+    {
+      "id": 7,
+      "categoria": "meccanica",
+      "nome": "Sostituzione cinghia distribuzione",
+      "descrizione": "Smontaggio e sostituzione cinghia di distribuzione con kit completo (pompa acqua inclusa se necessaria).",
+      "prezzoMin": 250,
+      "prezzoMax": 450,
+      "durataMedio": "4h",
+      "garanzia": true,
+      "popolare": false
+    },
+    {
+      "id": 8,
+      "categoria": "meccanica",
+      "nome": "Sostituzione ammortizzatori (coppia)",
+      "descrizione": "Smontaggio e montaggio coppia ammortizzatori anteriori o posteriori. Ricambi originali o equivalenti.",
+      "prezzoMin": 180,
+      "prezzoMax": 350,
+      "durataMedio": "2.5h",
+      "garanzia": true,
+      "popolare": false
+    },
+    {
+      "id": 9,
+      "categoria": "meccanica",
+      "nome": "Ricarica climatizzatore",
+      "descrizione": "Svuotamento, controllo tenuta, ricarica gas refrigerante R134a o R1234yf con analisi perdite.",
+      "prezzoMin": 80,
+      "prezzoMax": 130,
+      "durataMedio": "1h",
+      "garanzia": false,
+      "popolare": true
+    },
+    {
+      "id": 10,
+      "categoria": "elettronica",
+      "nome": "Diagnosi OBD2 completa",
+      "descrizione": "Lettura centraline motore/cambio/ABS/airbag con strumentazione professionale. Report PDF incluso.",
+      "prezzoMin": 40,
+      "prezzoMax": 60,
+      "durataMedio": "45min",
+      "garanzia": false,
+      "popolare": true
+    },
+    {
+      "id": 11,
+      "categoria": "elettronica",
+      "nome": "Sostituzione batteria auto",
+      "descrizione": "Test della batteria, smontaggio, montaggio nuova batteria, reset centralina gestione energia.",
+      "prezzoMin": 90,
+      "prezzoMax": 180,
+      "durataMedio": "30min",
+      "garanzia": true,
+      "popolare": false
+    },
+    {
+      "id": 12,
+      "categoria": "elettronica",
+      "nome": "Controllo impianto elettrico",
+      "descrizione": "Verifica fusibili, alternatore, motorini, luci e sensori. Preventivo riparazione incluso.",
+      "prezzoMin": 50,
+      "prezzoMax": 80,
+      "durataMedio": "1h",
+      "garanzia": false,
+      "popolare": false
+    },
+    {
+      "id": 13,
+      "categoria": "carrozzeria",
+      "nome": "Riparazione ammaccatura (senza verniciatura)",
+      "descrizione": "Tecnica PDR (Paintless Dent Repair) per ammaccature senza danni alla vernice. Valutazione gratuita.",
+      "prezzoMin": 60,
+      "prezzoMax": 200,
+      "durataMedio": "2h",
+      "garanzia": true,
+      "popolare": false
+    },
+    {
+      "id": 14,
+      "categoria": "carrozzeria",
+      "nome": "Verniciatura elemento singolo",
+      "descrizione": "Preparazione, stucco, carteggio, verniciatura a isola e lucidatura di un singolo elemento (paraurti, porta, cofano).",
+      "prezzoMin": 200,
+      "prezzoMax": 400,
+      "durataMedio": "2 giorni",
+      "garanzia": true,
+      "popolare": false
+    },
+    {
+      "id": 15,
+      "categoria": "carrozzeria",
+      "nome": "Lucidatura e Polish professionale",
+      "descrizione": "Decontaminazione, polish meccanico a 3 step, cera di protezione. Elimina graffi superficiali e ossidazione.",
+      "prezzoMin": 120,
+      "prezzoMax": 250,
+      "durataMedio": "4h",
+      "garanzia": false,
+      "popolare": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ragioneSociale": "Officina Rossi & C. S.n.c.",
+  "nomeCommerciale": "Officina Rossi & C.",
+  "tagline": "Meccanica multimarca + carrozzeria",
+  "fondazione": 2003,
+  "indirizzo": {
+    "via": "Via Padova 118",
+    "citta": "Milano",
+    "provincia": "MI",
+    "cap": "20127",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.4849,
+    "lng": 9.2204
+  },
+  "contatti": {
+    "telefono": "+39 02 555 7890",
+    "whatsapp": "+39 338 5551234",
+    "email": "info@officinarossi.it",
+    "social": {
+      "facebook": "https://facebook.com/officinarossi_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "08:00 – 18:30",
+    "martedi": "08:00 – 18:30",
+    "mercoledi": "08:00 – 18:30",
+    "giovedi": "08:00 – 18:30",
+    "venerdi": "08:00 – 18:30",
+    "sabato": "08:00 – 12:30",
+    "domenica": "Chiuso"
+  },
+  "servizi": {
+    "autoSostitutiva": true,
+    "ritiroConsegna": true,
+    "preventivOgratuito": true,
+    "garanzia": "1 anno su ricambi originali",
+    "accessibileDisabili": true,
+    "pagamentoFinanziato": false
+  },
+  "metaSeo": {
+    "title": "Officina Rossi & C. — Meccanica multimarca + carrozzeria Milano",
+    "description": "Autofficina multimarca e carrozzeria a Milano via Padova. Tagliando, freni, gomme, revisione, OBD2, climatizzatore. Preventivo gratuito, garanzia 1 anno ricambi.",
+    "keywords": ["autofficina milano", "meccanico milano", "carrozzeria milano", "tagliando auto milano", "revisione auto milano"]
+  }
+}

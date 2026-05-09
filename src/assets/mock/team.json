@@ -1,0 +1,40 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Marco Rossi",
+      "ruolo": "Titolare e Meccanico Senior",
+      "bio": "Meccanico dal 1998 con formazione FCA e Bosch. Ha fondato l'officina nel 2003 dopo 5 anni da concessionario ufficiale. Specializzato in diagnostica avanzata e motori turbo.",
+      "anniEsperienza": 26,
+      "image": "/assets/img/team/marco.jpg",
+      "specialita": ["Diagnostica OBD2", "Motori turbo benzina/diesel", "Elettronica avanzata"]
+    },
+    {
+      "id": 2,
+      "nome": "Luca Ferrari",
+      "ruolo": "Meccanico Specializzato",
+      "bio": "Diplomato IPSIA Romoli Milano, specializzato in trasmissioni e sistemi freno. Abilità certificata su veicoli ibridi Toyota e Hyundai.",
+      "anniEsperienza": 14,
+      "image": "/assets/img/team/luca.jpg",
+      "specialita": ["Freni e sospensioni", "Ibridi Toyota/Hyundai", "Trasmissioni automatiche"]
+    },
+    {
+      "id": 3,
+      "nome": "Sofia Negri",
+      "ruolo": "Carrozziera e Verniciatura",
+      "bio": "15 anni di esperienza in carrozzeria con formazione Glasurit. Specializzata in PDR e abbinamento colori. Cura la gestione preventivi assicurativi.",
+      "anniEsperienza": 15,
+      "image": "/assets/img/team/sofia.jpg",
+      "specialita": ["Verniciatura isola", "PDR senza vernice", "Pratiche assicurative"]
+    },
+    {
+      "id": 4,
+      "nome": "Ahmed Benlahcen",
+      "ruolo": "Gommista e Assistente",
+      "bio": "Specializzato in pneumatici di tutte le dimensioni, equilibratura computerizzata e convergenza. Gestisce anche il magazzino ricambi e i rapporti con i fornitori.",
+      "anniEsperienza": 8,
+      "image": "/assets/img/team/ahmed.jpg",
+      "specialita": ["Pneumatici e cerchi", "Equilibratura computerizzata", "Geometria ruote"]
+    }
+  ]
+}
