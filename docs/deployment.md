@@ -43,7 +43,7 @@ In alternativa, basta connettere il repo alla **Vercel GitHub App** (Vercel Dash
 
 ## GitHub Pages — Documentation
 
-URL: `https://fedcal.github.io/federico-demo-autofficina/`
+URL: `https://fedcal.github.io/demo-autofficina/`
 
 ### Setup iniziale
 
@@ -53,7 +53,7 @@ URL: `https://fedcal.github.io/federico-demo-autofficina/`
 ### Configurazione VitePress
 
 `docs/.vitepress/config.ts`:
-- `base: /federico-demo-autofficina/` (subdirectory GH Pages)
+- `base: /demo-autofficina/` (subdirectory GH Pages)
 - `cleanUrls: true`
 - Search locale integrato
 - Sidebar + nav configurati

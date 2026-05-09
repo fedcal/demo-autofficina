@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Autofficina** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://autofficina.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-autofficina/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-autofficina/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-autofficina.git
-cd federico-demo-autofficina
+git clone https://github.com/fedcal/demo-autofficina.git
+cd demo-autofficina
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:autofficina
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-autofficina/
+→ https://fedcal.github.io/demo-autofficina/
 
 ## Hub demos Federico
 
